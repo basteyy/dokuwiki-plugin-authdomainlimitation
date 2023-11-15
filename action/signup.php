@@ -3,7 +3,7 @@
  * DokuWiki Plugin Authdomain Limitation (Action Component)
  *
  * @license GPL 2 http://www.gnu.org/licenses/gpl-2.0.html
- * @author  basteyyy <sebastian@34n.de>
+ * @author  basteyyy <sebastian@xzit.online>
  */
 
 // must be run within Dokuwiki

@@ -1,6 +1,6 @@
 base   authdomainlimitation
 author basteyyy
-email  sebastian@34n.de
+email  sebastian@xzit.online
 date   2015-01-20
 name   Authdomain Limitation Plugin
 desc   Provides a method to regulate the (email) domains with which users are allowed to register himself.
